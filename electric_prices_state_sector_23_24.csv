@@ -1,0 +1,621 @@
+location,price,sector,year
+New England,27.68,Residential,2024
+Connecticut,28.75,Residential,2024
+Maine,24.29,Residential,2024
+Massachusetts,29.35,Residential,2024
+New Hampshire,23.4,Residential,2024
+Rhode Island,28.65,Residential,2024
+Vermont,21.9,Residential,2024
+Middle Atlantic,20.63,Residential,2024
+New Jersey,19.34,Residential,2024
+New York,24.43,Residential,2024
+Pennsylvania,17.77,Residential,2024
+East North Central,16.48,Residential,2024
+Illinois,15.87,Residential,2024
+Indiana,14.77,Residential,2024
+Michigan,19.3,Residential,2024
+Ohio,15.99,Residential,2024
+Wisconsin,17.18,Residential,2024
+West North Central,13.47,Residential,2024
+Iowa,13.4,Residential,2024
+Kansas,14.15,Residential,2024
+Minnesota,15.45,Residential,2024
+Missouri,12.91,Residential,2024
+Nebraska,11.53,Residential,2024
+North Dakota,11.51,Residential,2024
+South Dakota,12.86,Residential,2024
+South Atlantic,14.51,Residential,2024
+Delaware,16.57,Residential,2024
+District of Columbia,17.71,Residential,2024
+Florida,14.14,Residential,2024
+Georgia,14.08,Residential,2024
+Maryland,17.86,Residential,2024
+North Carolina,14.13,Residential,2024
+South Carolina,14.23,Residential,2024
+Virginia,14.41,Residential,2024
+West Virginia,15.07,Residential,2024
+East South Central,13.4,Residential,2024
+Alabama,15.18,Residential,2024
+Kentucky,12.79,Residential,2024
+Mississippi,13.39,Residential,2024
+Tennessee,12.42,Residential,2024
+West South Central,14.04,Residential,2024
+Arkansas,12.32,Residential,2024
+Louisiana,11.73,Residential,2024
+Oklahoma,12.24,Residential,2024
+Texas,14.94,Residential,2024
+Mountain,14.12,Residential,2024
+Arizona,14.91,Residential,2024
+Colorado,14.92,Residential,2024
+Idaho,11.52,Residential,2024
+Montana,12.66,Residential,2024
+Nevada,15.0,Residential,2024
+New Mexico,14.2,Residential,2024
+Utah,12.22,Residential,2024
+Wyoming,12.47,Residential,2024
+Pacific Contiguous,24.23,Residential,2024
+California,31.97,Residential,2024
+Oregon,14.7,Residential,2024
+Washington,11.9,Residential,2024
+Pacific Noncontiguous,34.95,Residential,2024
+Alaska,24.82,Residential,2024
+Hawaii,42.86,Residential,2024
+U.S. Total,16.48,Residential,2024
+New England,28.73,Residential,2023
+Connecticut,29.88,Residential,2023
+Maine,27.42,Residential,2023
+Massachusetts,29.61,Residential,2023
+New Hampshire,28.15,Residential,2023
+Rhode Island,27.02,Residential,2023
+Vermont,20.82,Residential,2023
+Middle Atlantic,19.6,Residential,2023
+New Jersey,17.7,Residential,2023
+New York,22.24,Residential,2023
+Pennsylvania,18.1,Residential,2023
+East North Central,16.19,Residential,2023
+Illinois,15.71,Residential,2023
+Indiana,14.94,Residential,2023
+Michigan,18.84,Residential,2023
+Ohio,15.38,Residential,2023
+Wisconsin,16.88,Residential,2023
+West North Central,13.02,Residential,2023
+Iowa,13.31,Residential,2023
+Kansas,13.38,Residential,2023
+Minnesota,14.73,Residential,2023
+Missouri,12.58,Residential,2023
+Nebraska,11.2,Residential,2023
+North Dakota,11.01,Residential,2023
+South Dakota,12.32,Residential,2023
+South Atlantic,14.45,Residential,2023
+Delaware,15.73,Residential,2023
+District of Columbia,16.45,Residential,2023
+Florida,15.21,Residential,2023
+Georgia,13.69,Residential,2023
+Maryland,16.6,Residential,2023
+North Carolina,12.93,Residential,2023
+South Carolina,13.68,Residential,2023
+Virginia,14.26,Residential,2023
+West Virginia,14.05,Residential,2023
+East South Central,13.11,Residential,2023
+Alabama,14.63,Residential,2023
+Kentucky,12.65,Residential,2023
+Mississippi,13.23,Residential,2023
+Tennessee,12.19,Residential,2023
+West South Central,13.68,Residential,2023
+Arkansas,12.25,Residential,2023
+Louisiana,11.55,Residential,2023
+Oklahoma,12.08,Residential,2023
+Texas,14.46,Residential,2023
+Mountain,13.68,Residential,2023
+Arizona,14.02,Residential,2023
+Colorado,14.3,Residential,2023
+Idaho,11.05,Residential,2023
+Montana,12.54,Residential,2023
+Nevada,16.67,Residential,2023
+New Mexico,13.85,Residential,2023
+Utah,11.2,Residential,2023
+Wyoming,11.46,Residential,2023
+Pacific Contiguous,22.02,Residential,2023
+California,29.51,Residential,2023
+Oregon,12.73,Residential,2023
+Washington,10.98,Residential,2023
+Pacific Noncontiguous,34.4,Residential,2023
+Alaska,23.9,Residential,2023
+Hawaii,42.39,Residential,2023
+U.S. Total,16.0,Residential,2023
+New England,20.55,Commercial,2024
+Connecticut,21.21,Commercial,2024
+Maine,18.22,Commercial,2024
+Massachusetts,20.9,Commercial,2024
+New Hampshire,19.4,Commercial,2024
+Rhode Island,21.09,Commercial,2024
+Vermont,18.89,Commercial,2024
+Middle Atlantic,15.69,Commercial,2024
+New Jersey,14.64,Commercial,2024
+New York,18.77,Commercial,2024
+Pennsylvania,11.03,Commercial,2024
+East North Central,12.13,Commercial,2024
+Illinois,11.81,Commercial,2024
+Indiana,12.44,Commercial,2024
+Michigan,14.01,Commercial,2024
+Ohio,10.66,Commercial,2024
+Wisconsin,12.63,Commercial,2024
+West North Central,10.25,Commercial,2024
+Iowa,10.22,Commercial,2024
+Kansas,11.19,Commercial,2024
+Minnesota,12.15,Commercial,2024
+Missouri,10.26,Commercial,2024
+Nebraska,8.39,Commercial,2024
+North Dakota,7.19,Commercial,2024
+South Dakota,10.55,Commercial,2024
+South Atlantic,10.69,Commercial,2024
+Delaware,12.2,Commercial,2024
+District of Columbia,17.07,Commercial,2024
+Florida,10.99,Commercial,2024
+Georgia,10.87,Commercial,2024
+Maryland,12.96,Commercial,2024
+North Carolina,10.56,Commercial,2024
+South Carolina,10.64,Commercial,2024
+Virginia,8.72,Commercial,2024
+West Virginia,11.62,Commercial,2024
+East South Central,12.36,Commercial,2024
+Alabama,13.64,Commercial,2024
+Kentucky,11.5,Commercial,2024
+Mississippi,12.32,Commercial,2024
+Tennessee,12.05,Commercial,2024
+West South Central,8.88,Commercial,2024
+Arkansas,10.24,Commercial,2024
+Louisiana,10.46,Commercial,2024
+Oklahoma,8.92,Commercial,2024
+Texas,8.55,Commercial,2024
+Mountain,11.03,Commercial,2024
+Arizona,12.23,Commercial,2024
+Colorado,11.71,Commercial,2024
+Idaho,9.17,Commercial,2024
+Montana,11.87,Commercial,2024
+Nevada,10.19,Commercial,2024
+New Mexico,10.54,Commercial,2024
+Utah,9.39,Commercial,2024
+Wyoming,9.27,Commercial,2024
+Pacific Contiguous,20.36,Commercial,2024
+California,25.54,Commercial,2024
+Oregon,10.11,Commercial,2024
+Washington,9.99,Commercial,2024
+Pacific Noncontiguous,30.22,Commercial,2024
+Alaska,21.57,Commercial,2024
+Hawaii,38.18,Commercial,2024
+U.S. Total,12.75,Commercial,2024
+New England,19.42,Commercial,2023
+Connecticut,19.99,Commercial,2023
+Maine,17.88,Commercial,2023
+Massachusetts,19.62,Commercial,2023
+New Hampshire,20.4,Commercial,2023
+Rhode Island,17.68,Commercial,2023
+Vermont,18.0,Commercial,2023
+Middle Atlantic,15.32,Commercial,2023
+New Jersey,14.0,Commercial,2023
+New York,18.01,Commercial,2023
+Pennsylvania,11.26,Commercial,2023
+East North Central,11.94,Commercial,2023
+Illinois,11.24,Commercial,2023
+Indiana,12.55,Commercial,2023
+Michigan,13.4,Commercial,2023
+Ohio,10.75,Commercial,2023
+Wisconsin,12.76,Commercial,2023
+West North Central,10.32,Commercial,2023
+Iowa,10.33,Commercial,2023
+Kansas,10.85,Commercial,2023
+Minnesota,12.39,Commercial,2023
+Missouri,10.14,Commercial,2023
+Nebraska,8.76,Commercial,2023
+North Dakota,7.38,Commercial,2023
+South Dakota,10.16,Commercial,2023
+South Atlantic,10.82,Commercial,2023
+Delaware,11.83,Commercial,2023
+District of Columbia,16.94,Commercial,2023
+Florida,11.95,Commercial,2023
+Georgia,10.7,Commercial,2023
+Maryland,12.77,Commercial,2023
+North Carolina,9.67,Commercial,2023
+South Carolina,10.39,Commercial,2023
+Virginia,8.95,Commercial,2023
+West Virginia,11.03,Commercial,2023
+East South Central,12.13,Commercial,2023
+Alabama,13.16,Commercial,2023
+Kentucky,11.38,Commercial,2023
+Mississippi,12.37,Commercial,2023
+Tennessee,11.8,Commercial,2023
+West South Central,9.13,Commercial,2023
+Arkansas,10.34,Commercial,2023
+Louisiana,10.45,Commercial,2023
+Oklahoma,9.34,Commercial,2023
+Texas,8.82,Commercial,2023
+Mountain,10.94,Commercial,2023
+Arizona,11.79,Commercial,2023
+Colorado,11.64,Commercial,2023
+Idaho,8.78,Commercial,2023
+Montana,12.11,Commercial,2023
+Nevada,11.91,Commercial,2023
+New Mexico,10.68,Commercial,2023
+Utah,8.51,Commercial,2023
+Wyoming,8.94,Commercial,2023
+Pacific Contiguous,19.42,Commercial,2023
+California,23.91,Commercial,2023
+Oregon,9.92,Commercial,2023
+Washington,9.92,Commercial,2023
+Pacific Noncontiguous,30.28,Commercial,2023
+Alaska,20.87,Commercial,2023
+Hawaii,39.03,Commercial,2023
+U.S. Total,12.59,Commercial,2023
+New England,16.28,Industrial,2024
+Connecticut,17.12,Industrial,2024
+Maine,12.46,Industrial,2024
+Massachusetts,18.19,Industrial,2024
+New Hampshire,16.21,Industrial,2024
+Rhode Island,19.7,Industrial,2024
+Vermont,11.58,Industrial,2024
+Middle Atlantic,8.52,Industrial,2024
+New Jersey,11.93,Industrial,2024
+New York,9.17,Industrial,2024
+Pennsylvania,7.87,Industrial,2024
+East North Central,8.08,Industrial,2024
+Illinois,8.83,Industrial,2024
+Indiana,8.15,Industrial,2024
+Michigan,8.26,Industrial,2024
+Ohio,7.1,Industrial,2024
+Wisconsin,8.54,Industrial,2024
+West North Central,7.72,Industrial,2024
+Iowa,6.8,Industrial,2024
+Kansas,7.73,Industrial,2024
+Minnesota,9.15,Industrial,2024
+Missouri,7.87,Industrial,2024
+Nebraska,7.66,Industrial,2024
+North Dakota,7.25,Industrial,2024
+South Dakota,8.28,Industrial,2024
+South Atlantic,7.76,Industrial,2024
+Delaware,8.49,Industrial,2024
+District of Columbia,10.8,Industrial,2024
+Florida,8.5,Industrial,2024
+Georgia,7.21,Industrial,2024
+Maryland,10.01,Industrial,2024
+North Carolina,7.77,Industrial,2024
+South Carolina,6.84,Industrial,2024
+Virginia,8.99,Industrial,2024
+West Virginia,7.81,Industrial,2024
+East South Central,6.72,Industrial,2024
+Alabama,7.25,Industrial,2024
+Kentucky,6.5,Industrial,2024
+Mississippi,6.81,Industrial,2024
+Tennessee,6.21,Industrial,2024
+West South Central,6.05,Industrial,2024
+Arkansas,6.61,Industrial,2024
+Louisiana,5.61,Industrial,2024
+Oklahoma,5.84,Industrial,2024
+Texas,6.12,Industrial,2024
+Mountain,7.7,Industrial,2024
+Arizona,7.9,Industrial,2024
+Colorado,8.62,Industrial,2024
+Idaho,7.69,Industrial,2024
+Montana,7.59,Industrial,2024
+Nevada,8.64,Industrial,2024
+New Mexico,5.43,Industrial,2024
+Utah,7.86,Industrial,2024
+Wyoming,7.96,Industrial,2024
+Pacific Contiguous,15.38,Industrial,2024
+California,21.53,Industrial,2024
+Oregon,8.05,Industrial,2024
+Washington,6.61,Industrial,2024
+Pacific Noncontiguous,29.93,Industrial,2024
+Alaska,19.31,Industrial,2024
+Hawaii,34.13,Industrial,2024
+U.S. Total,8.13,Industrial,2024
+New England,15.81,Industrial,2023
+Connecticut,15.69,Industrial,2023
+Maine,12.3,Industrial,2023
+Massachusetts,17.88,Industrial,2023
+New Hampshire,15.76,Industrial,2023
+Rhode Island,18.98,Industrial,2023
+Vermont,11.27,Industrial,2023
+Middle Atlantic,7.91,Industrial,2023
+New Jersey,11.68,Industrial,2023
+New York,6.87,Industrial,2023
+Pennsylvania,7.75,Industrial,2023
+East North Central,7.94,Industrial,2023
+Illinois,8.2,Industrial,2023
+Indiana,8.24,Industrial,2023
+Michigan,8.16,Industrial,2023
+Ohio,7.03,Industrial,2023
+Wisconsin,8.68,Industrial,2023
+West North Central,7.77,Industrial,2023
+Iowa,6.91,Industrial,2023
+Kansas,7.64,Industrial,2023
+Minnesota,9.2,Industrial,2023
+Missouri,7.9,Industrial,2023
+Nebraska,7.63,Industrial,2023
+North Dakota,7.37,Industrial,2023
+South Dakota,8.01,Industrial,2023
+South Atlantic,7.58,Industrial,2023
+Delaware,7.85,Industrial,2023
+District of Columbia,10.85,Industrial,2023
+Florida,9.39,Industrial,2023
+Georgia,6.88,Industrial,2023
+Maryland,9.94,Industrial,2023
+North Carolina,7.15,Industrial,2023
+South Carolina,6.68,Industrial,2023
+Virginia,8.92,Industrial,2023
+West Virginia,7.24,Industrial,2023
+East South Central,6.72,Industrial,2023
+Alabama,7.1,Industrial,2023
+Kentucky,6.55,Industrial,2023
+Mississippi,6.96,Industrial,2023
+Tennessee,6.23,Industrial,2023
+West South Central,6.47,Industrial,2023
+Arkansas,6.87,Industrial,2023
+Louisiana,5.88,Industrial,2023
+Oklahoma,6.26,Industrial,2023
+Texas,6.6,Industrial,2023
+Mountain,7.84,Industrial,2023
+Arizona,8.11,Industrial,2023
+Colorado,8.5,Industrial,2023
+Idaho,7.17,Industrial,2023
+Montana,7.8,Industrial,2023
+Nevada,10.36,Industrial,2023
+New Mexico,5.75,Industrial,2023
+Utah,6.99,Industrial,2023
+Wyoming,7.06,Industrial,2023
+Pacific Contiguous,13.38,Industrial,2023
+California,18.64,Industrial,2023
+Oregon,7.52,Industrial,2023
+Washington,6.35,Industrial,2023
+Pacific Noncontiguous,30.55,Industrial,2023
+Alaska,18.7,Industrial,2023
+Hawaii,35.28,Industrial,2023
+U.S. Total,8.04,Industrial,2023
+New England,12.99,Transportation,2024
+Connecticut,17.77,Transportation,2024
+Maine,,Transportation,2024
+Massachusetts,9.22,Transportation,2024
+New Hampshire,,Transportation,2024
+Rhode Island,21.53,Transportation,2024
+Vermont,,Transportation,2024
+Middle Atlantic,13.67,Transportation,2024
+New Jersey,11.11,Transportation,2024
+New York,14.7,Transportation,2024
+Pennsylvania,9.96,Transportation,2024
+East North Central,7.99,Transportation,2024
+Illinois,7.76,Transportation,2024
+Indiana,12.31,Transportation,2024
+Michigan,14.09,Transportation,2024
+Ohio,7.32,Transportation,2024
+Wisconsin,18.36,Transportation,2024
+West North Central,10.98,Transportation,2024
+Iowa,,Transportation,2024
+Kansas,,Transportation,2024
+Minnesota,12.71,Transportation,2024
+Missouri,9.94,Transportation,2024
+Nebraska,,Transportation,2024
+North Dakota,,Transportation,2024
+South Dakota,,Transportation,2024
+South Atlantic,10.02,Transportation,2024
+Delaware,,Transportation,2024
+District of Columbia,9.66,Transportation,2024
+Florida,10.87,Transportation,2024
+Georgia,7.64,Transportation,2024
+Maryland,11.55,Transportation,2024
+North Carolina,10.28,Transportation,2024
+South Carolina,,Transportation,2024
+Virginia,9.25,Transportation,2024
+West Virginia,,Transportation,2024
+East South Central,,Transportation,2024
+Alabama,,Transportation,2024
+Kentucky,,Transportation,2024
+Mississippi,,Transportation,2024
+Tennessee,,Transportation,2024
+West South Central,7.76,Transportation,2024
+Arkansas,13.23,Transportation,2024
+Louisiana,11.54,Transportation,2024
+Oklahoma,,Transportation,2024
+Texas,4.35,Transportation,2024
+Mountain,10.61,Transportation,2024
+Arizona,10.95,Transportation,2024
+Colorado,9.66,Transportation,2024
+Idaho,,Transportation,2024
+Montana,,Transportation,2024
+Nevada,10.66,Transportation,2024
+New Mexico,,Transportation,2024
+Utah,12.07,Transportation,2024
+Wyoming,,Transportation,2024
+Pacific Contiguous,16.1,Transportation,2024
+California,16.79,Transportation,2024
+Oregon,12.54,Transportation,2024
+Washington,11.64,Transportation,2024
+Pacific Noncontiguous,,Transportation,2024
+Alaska,,Transportation,2024
+Hawaii,,Transportation,2024
+U.S. Total,12.75,Transportation,2024
+New England,13.01,Transportation,2023
+Connecticut,21.55,Transportation,2023
+Maine,,Transportation,2023
+Massachusetts,7.15,Transportation,2023
+New Hampshire,,Transportation,2023
+Rhode Island,17.29,Transportation,2023
+Vermont,,Transportation,2023
+Middle Atlantic,14.65,Transportation,2023
+New Jersey,12.22,Transportation,2023
+New York,15.7,Transportation,2023
+Pennsylvania,10.21,Transportation,2023
+East North Central,7.08,Transportation,2023
+Illinois,6.9,Transportation,2023
+Indiana,12.73,Transportation,2023
+Michigan,13.67,Transportation,2023
+Ohio,5.91,Transportation,2023
+Wisconsin,17.21,Transportation,2023
+West North Central,10.89,Transportation,2023
+Iowa,,Transportation,2023
+Kansas,,Transportation,2023
+Minnesota,12.35,Transportation,2023
+Missouri,9.77,Transportation,2023
+Nebraska,,Transportation,2023
+North Dakota,,Transportation,2023
+South Dakota,,Transportation,2023
+South Atlantic,10.23,Transportation,2023
+Delaware,,Transportation,2023
+District of Columbia,9.94,Transportation,2023
+Florida,11.33,Transportation,2023
+Georgia,7.29,Transportation,2023
+Maryland,11.23,Transportation,2023
+North Carolina,8.86,Transportation,2023
+South Carolina,,Transportation,2023
+Virginia,10.42,Transportation,2023
+West Virginia,,Transportation,2023
+East South Central,,Transportation,2023
+Alabama,,Transportation,2023
+Kentucky,,Transportation,2023
+Mississippi,,Transportation,2023
+Tennessee,,Transportation,2023
+West South Central,7.53,Transportation,2023
+Arkansas,14.93,Transportation,2023
+Louisiana,11.0,Transportation,2023
+Oklahoma,,Transportation,2023
+Texas,7.3,Transportation,2023
+Mountain,12.69,Transportation,2023
+Arizona,10.01,Transportation,2023
+Colorado,13.23,Transportation,2023
+Idaho,,Transportation,2023
+Montana,,Transportation,2023
+Nevada,12.75,Transportation,2023
+New Mexico,,Transportation,2023
+Utah,12.28,Transportation,2023
+Wyoming,,Transportation,2023
+Pacific Contiguous,12.67,Transportation,2023
+California,13.01,Transportation,2023
+Oregon,11.41,Transportation,2023
+Washington,10.17,Transportation,2023
+Pacific Noncontiguous,,Transportation,2023
+Alaska,,Transportation,2023
+Hawaii,,Transportation,2023
+U.S. Total,12.77,Transportation,2023
+New England,23.03,All Sectors,2024
+Connecticut,24.37,All Sectors,2024
+Maine,19.66,All Sectors,2024
+Massachusetts,23.94,All Sectors,2024
+New Hampshire,20.6,All Sectors,2024
+Rhode Island,24.15,All Sectors,2024
+Vermont,18.41,All Sectors,2024
+Middle Atlantic,16.11,All Sectors,2024
+New Jersey,16.29,All Sectors,2024
+New York,19.66,All Sectors,2024
+Pennsylvania,12.51,All Sectors,2024
+East North Central,12.22,All Sectors,2024
+Illinois,12.21,All Sectors,2024
+Indiana,11.38,All Sectors,2024
+Michigan,14.16,All Sectors,2024
+Ohio,11.29,All Sectors,2024
+Wisconsin,12.72,All Sectors,2024
+West North Central,10.52,All Sectors,2024
+Iowa,9.34,All Sectors,2024
+Kansas,11.21,All Sectors,2024
+Minnesota,12.35,All Sectors,2024
+Missouri,11.06,All Sectors,2024
+Nebraska,9.07,All Sectors,2024
+North Dakota,7.93,All Sectors,2024
+South Dakota,10.87,All Sectors,2024
+South Atlantic,11.92,All Sectors,2024
+Delaware,13.56,All Sectors,2024
+District of Columbia,16.88,All Sectors,2024
+Florida,12.53,All Sectors,2024
+Georgia,11.4,All Sectors,2024
+Maryland,15.04,All Sectors,2024
+North Carolina,11.65,All Sectors,2024
+South Carolina,10.9,All Sectors,2024
+Virginia,10.62,All Sectors,2024
+West Virginia,11.05,All Sectors,2024
+East South Central,10.99,All Sectors,2024
+Alabama,11.9,All Sectors,2024
+Kentucky,10.07,All Sectors,2024
+Mississippi,10.93,All Sectors,2024
+Tennessee,10.9,All Sectors,2024
+West South Central,9.58,All Sectors,2024
+Arkansas,9.59,All Sectors,2024
+Louisiana,8.8,All Sectors,2024
+Oklahoma,9.09,All Sectors,2024
+Texas,9.79,All Sectors,2024
+Mountain,11.23,All Sectors,2024
+Arizona,12.74,All Sectors,2024
+Colorado,12.07,All Sectors,2024
+Idaho,9.51,All Sectors,2024
+Montana,10.83,All Sectors,2024
+Nevada,11.47,All Sectors,2024
+New Mexico,9.18,All Sectors,2024
+Utah,9.97,All Sectors,2024
+Wyoming,9.14,All Sectors,2024
+Pacific Contiguous,20.79,All Sectors,2024
+California,27.04,All Sectors,2024
+Oregon,11.11,All Sectors,2024
+Washington,10.13,All Sectors,2024
+Pacific Noncontiguous,31.62,All Sectors,2024
+Alaska,22.17,All Sectors,2024
+Hawaii,38.0,All Sectors,2024
+U.S. Total,12.94,All Sectors,2024
+New England,22.81,All Sectors,2023
+Connecticut,24.24,All Sectors,2023
+Maine,20.84,All Sectors,2023
+Massachusetts,23.21,All Sectors,2023
+New Hampshire,22.96,All Sectors,2023
+Rhode Island,21.62,All Sectors,2023
+Vermont,17.53,All Sectors,2023
+Middle Atlantic,15.4,All Sectors,2023
+New Jersey,15.27,All Sectors,2023
+New York,18.28,All Sectors,2023
+Pennsylvania,12.57,All Sectors,2023
+East North Central,11.98,All Sectors,2023
+Illinois,11.75,All Sectors,2023
+Indiana,11.49,All Sectors,2023
+Michigan,13.68,All Sectors,2023
+Ohio,11.04,All Sectors,2023
+Wisconsin,12.72,All Sectors,2023
+West North Central,10.44,All Sectors,2023
+Iowa,9.42,All Sectors,2023
+Kansas,10.8,All Sectors,2023
+Minnesota,12.21,All Sectors,2023
+Missouri,10.87,All Sectors,2023
+Nebraska,9.14,All Sectors,2023
+North Dakota,8.03,All Sectors,2023
+South Dakota,10.49,All Sectors,2023
+South Atlantic,11.88,All Sectors,2023
+Delaware,12.85,All Sectors,2023
+District of Columbia,16.5,All Sectors,2023
+Florida,13.53,All Sectors,2023
+Georgia,11.06,All Sectors,2023
+Maryland,14.34,All Sectors,2023
+North Carolina,10.61,All Sectors,2023
+South Carolina,10.5,All Sectors,2023
+Virginia,10.68,All Sectors,2023
+West Virginia,10.26,All Sectors,2023
+East South Central,10.78,All Sectors,2023
+Alabama,11.47,All Sectors,2023
+Kentucky,9.96,All Sectors,2023
+Mississippi,10.95,All Sectors,2023
+Tennessee,10.69,All Sectors,2023
+West South Central,9.79,All Sectors,2023
+Arkansas,9.73,All Sectors,2023
+Louisiana,8.91,All Sectors,2023
+Oklahoma,9.3,All Sectors,2023
+Texas,10.04,All Sectors,2023
+Mountain,11.07,All Sectors,2023
+Arizona,12.19,All Sectors,2023
+Colorado,11.76,All Sectors,2023
+Idaho,9.08,All Sectors,2023
+Montana,10.97,All Sectors,2023
+Nevada,13.09,All Sectors,2023
+New Mexico,9.47,All Sectors,2023
+Utah,9.03,All Sectors,2023
+Wyoming,8.39,All Sectors,2023
+Pacific Contiguous,19.15,All Sectors,2023
+California,24.87,All Sectors,2023
+Oregon,10.32,All Sectors,2023
+Washington,9.58,All Sectors,2023
+Pacific Noncontiguous,31.67,All Sectors,2023
+Alaska,21.41,All Sectors,2023
+Hawaii,38.6,All Sectors,2023
+U.S. Total,12.68,All Sectors,2023

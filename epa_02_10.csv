@@ -1,0 +1,75 @@
+﻿"Table 2.10. Average Price of Electricity to Ultimate Customers by End-Use Sector,",,,,,,,,,,
+"by State, 2024 and 2023 (Cents per Kilowatthour)",,,,,,,,,,
+,Residential,,Commercial,,Industrial,,Transportation,,All Sectors,
+"Census Division
+and State",Year 2024,Year 2023,Year 2024,Year 2023,Year 2024,Year 2023,Year 2024,Year 2023,Year 2024,Year 2023
+New England,27.68,28.73,20.55,19.42,16.28,15.81,12.99,13.01,23.03,22.81
+Connecticut,28.75,29.88,21.21,19.99,17.12,15.69,17.77,21.55,24.37,24.24
+Maine,24.29,27.42,18.22,17.88,12.46,12.30,--,--,19.66,20.84
+Massachusetts,29.35,29.61,20.90,19.62,18.19,17.88,9.22,7.15,23.94,23.21
+New Hampshire,23.40,28.15,19.40,20.40,16.21,15.76,--,--,20.60,22.96
+Rhode Island,28.65,27.02,21.09,17.68,19.70,18.98,21.53,17.29,24.15,21.62
+Vermont,21.90,20.82,18.89,18.00,11.58,11.27,--,--,18.41,17.53
+Middle Atlantic,20.63,19.60,15.69,15.32,8.52,7.91,13.67,14.65,16.11,15.40
+New Jersey,19.34,17.70,14.64,14.00,11.93,11.68,11.11,12.22,16.29,15.27
+New York,24.43,22.24,18.77,18.01,9.17,6.87,14.70,15.70,19.66,18.28
+Pennsylvania,17.77,18.10,11.03,11.26,7.87,7.75,9.96,10.21,12.51,12.57
+East North Central,16.48,16.19,12.13,11.94,8.08,7.94,7.99,7.08,12.22,11.98
+Illinois,15.87,15.71,11.81,11.24,8.83,8.20,7.76,6.90,12.21,11.75
+Indiana,14.77,14.94,12.44,12.55,8.15,8.24,12.31,12.73,11.38,11.49
+Michigan,19.30,18.84,14.01,13.40,8.26,8.16,14.09,13.67,14.16,13.68
+Ohio,15.99,15.38,10.66,10.75,7.10,7.03,7.32,5.91,11.29,11.04
+Wisconsin,17.18,16.88,12.63,12.76,8.54,8.68,18.36,17.21,12.72,12.72
+West North Central,13.47,13.02,10.25,10.32,7.72,7.77,10.98,10.89,10.52,10.44
+Iowa,13.40,13.31,10.22,10.33,6.80,6.91,--,--,9.34,9.42
+Kansas,14.15,13.38,11.19,10.85,7.73,7.64,--,--,11.21,10.80
+Minnesota,15.45,14.73,12.15,12.39,9.15,9.20,12.71,12.35,12.35,12.21
+Missouri,12.91,12.58,10.26,10.14,7.87,7.90,9.94,9.77,11.06,10.87
+Nebraska,11.53,11.20,8.39,8.76,7.66,7.63,--,--,9.07,9.14
+North Dakota,11.51,11.01,7.19,7.38,7.25,7.37,--,--,7.93,8.03
+South Dakota,12.86,12.32,10.55,10.16,8.28,8.01,--,--,10.87,10.49
+South Atlantic,14.51,14.45,10.69,10.82,7.76,7.58,10.02,10.23,11.92,11.88
+Delaware,16.57,15.73,12.20,11.83,8.49,7.85,--,--,13.56,12.85
+District of Columbia,17.71,16.45,17.07,16.94,10.80,10.85,9.66,9.94,16.88,16.50
+Florida,14.14,15.21,10.99,11.95,8.50,9.39,10.87,11.33,12.53,13.53
+Georgia,14.08,13.69,10.87,10.70,7.21,6.88,7.64,7.29,11.40,11.06
+Maryland,17.86,16.60,12.96,12.77,10.01,9.94,11.55,11.23,15.04,14.34
+North Carolina,14.13,12.93,10.56,9.67,7.77,7.15,10.28,8.86,11.65,10.61
+South Carolina,14.23,13.68,10.64,10.39,6.84,6.68,--,--,10.90,10.50
+Virginia,14.41,14.26,8.72,8.95,8.99,8.92,9.25,10.42,10.62,10.68
+West Virginia,15.07,14.05,11.62,11.03,7.81,7.24,--,--,11.05,10.26
+East South Central,13.40,13.11,12.36,12.13,6.72,6.72,--,--,10.99,10.78
+Alabama,15.18,14.63,13.64,13.16,7.25,7.10,--,--,11.90,11.47
+Kentucky,12.79,12.65,11.50,11.38,6.50,6.55,--,--,10.07,9.96
+Mississippi,13.39,13.23,12.32,12.37,6.81,6.96,--,--,10.93,10.95
+Tennessee,12.42,12.19,12.05,11.80,6.21,6.23,--,--,10.90,10.69
+West South Central,14.04,13.68,8.88,9.13,6.05,6.47,7.76,7.53,9.58,9.79
+Arkansas,12.32,12.25,10.24,10.34,6.61,6.87,13.23,14.93,9.59,9.73
+Louisiana,11.73,11.55,10.46,10.45,5.61,5.88,11.54,11.00,8.80,8.91
+Oklahoma,12.24,12.08,8.92,9.34,5.84,6.26,--,--,9.09,9.30
+Texas,14.94,14.46,8.55,8.82,6.12,6.60,4.35,7.30,9.79,10.04
+Mountain,14.12,13.68,11.03,10.94,7.70,7.84,10.61,12.69,11.23,11.07
+Arizona,14.91,14.02,12.23,11.79,7.90,8.11,10.95,10.01,12.74,12.19
+Colorado,14.92,14.30,11.71,11.64,8.62,8.50,9.66,13.23,12.07,11.76
+Idaho,11.52,11.05,9.17,8.78,7.69,7.17,--,--,9.51,9.08
+Montana,12.66,12.54,11.87,12.11,7.59,7.80,--,--,10.83,10.97
+Nevada,15.00,16.67,10.19,11.91,8.64,10.36,10.66,12.75,11.47,13.09
+New Mexico,14.20,13.85,10.54,10.68,5.43,5.75,--,--,9.18,9.47
+Utah,12.22,11.20,9.39,8.51,7.86,6.99,12.07,12.28,9.97,9.03
+Wyoming,12.47,11.46,9.27,8.94,7.96,7.06,--,--,9.14,8.39
+Pacific Contiguous,24.23,22.02,20.36,19.42,15.38,13.38,16.10,12.67,20.79,19.15
+California,31.97,29.51,25.54,23.91,21.53,18.64,16.79,13.01,27.04,24.87
+Oregon,14.70,12.73,10.11,9.92,8.05,7.52,12.54,11.41,11.11,10.32
+Washington,11.90,10.98,9.99,9.92,6.61,6.35,11.64,10.17,10.13,9.58
+Pacific Noncontiguous,34.95,34.40,30.22,30.28,29.93,30.55,--,--,31.62,31.67
+Alaska,24.82,23.90,21.57,20.87,19.31,18.70,--,--,22.17,21.41
+Hawaii,42.86,42.39,38.18,39.03,34.13,35.28,--,--,38.00,38.60
+U.S. Total,16.48,16.00,12.75,12.59,8.13,8.04,12.75,12.77,12.94,12.68
+"See Technical notes for additional information on the Commercial, Industrial, and Transportation sectors.
+Displayed values of zero may represent small values that round to zero.  The Excel version of this table provides additional precision which may be accessed by selecting individual cells.
+Notes: - See Glossary for definitions. - Values are final.
+See Technical Notes for a discussion of the sample design for the Form EIA-826.
+Utilities and energy service providers may classify commercial and industrial customers based on either NAICS codes or demands or usage falling within specified limits by rate schedule.
+Changes from year to year in consumer counts, sales and revenues, particularly involving the commercial and industrial consumer sectors, may result from respondent implementation of changes in the definitions of consumers, and reclassifications.
+Totals may not equal sum of components because of independent rounding.
+Source: U.S. Energy Information Administration, Form EIA-861, Annual Electric Power Industry Report.",,,,,,,,,,

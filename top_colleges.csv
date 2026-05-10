@@ -1,0 +1,90 @@
+name,city,state_or_country,undergrad_enrollment,acceptance_rate,average_SAT,average_ACT,endowment_$B,tuition,private_public
+Harvard University,Cambridge,MA,7300,3.4,1520,34,50.9,57261,private
+Stanford University,Stanford,CA,7000,3.7,1505,34,36.5,62484,private
+Yale University,New Haven,CT,5800,4.5,1515,34,41.4,62250,private
+Princeton University,Princeton,NJ,5400,4,1500,34,35.8,57690,private
+Massachusetts Institute of Technology,Cambridge,MA,4600,4.1,1540,35,24.6,61990,private
+University of Chicago,Chicago,IL,6400,5.4,1530,34,10.3,65619,private
+Columbia University,New York,NY,6100,3.9,1510,34,13.3,68400,private
+California Institute of Technology,Pasadena,CA,1000,3.2,1550,35,3.5,63255,private
+Duke University,Durham,NC,6700,5.9,1500,34,13.2,65860,private
+University of Pennsylvania,Philadelphia,PA,9900,5.7,1490,34,21,63452,private
+Brown University,Providence,RI,7200,5.1,1495,34,6.9,68230,private
+Dartmouth College,Hanover,NH,4400,6,1480,33,8.1,63684,private
+Northwestern University,Evanston,IL,8400,7.2,1490,34,15.4,65997,private
+Johns Hopkins University,Baltimore,MD,5700,7.5,1500,34,9.8,63340,private
+University of Notre Dame,Notre Dame,IN,8500,13,1450,33,20.3,62693,private
+Vanderbilt University,Nashville,TN,7100,7,1490,34,10.2,63263,private
+Rice University,Houston,TX,4100,8.7,1500,34,8.1,57210,private
+Washington University in St. Louis,St. Louis,MO,7900,11,1480,33,13.7,62982,private
+University of Southern California,Los Angeles,CA,20000,10,1450,33,8.1,66640,private
+Carnegie Mellon University,Pittsburgh,PA,7400,11.3,1480,34,3.2,61930,private
+University of California - Berkeley,Berkeley,CA,32000,11,1415,32,8.6,46326,public
+University of California - Los Angeles,Los Angeles,CA,32000,9,1405,32,5.4,46326,public
+University of Michigan,Ann Arbor,MI,32000,17,1430,33,17.9,55334,public
+McGill University,Montreal,Quebec,27000,46,1380,30,1.9,20000,public
+University of St Andrews,St Andrews,Scotland,8000,25,1420,31,0.1,30000,public
+University of Oxford,Oxford,England,12000,17.5,1450,32,8,45000,public
+University of Cambridge,Cambridge,England,12000,18,1440,32,9,45000,public
+Trinity College Dublin,Dublin,Ireland,12000,30,1380,30,0.3,25000,public
+Amherst College,Amherst,MA,1800,9,1450,33,3,67280,private
+Swarthmore College,Swarthmore,PA,1600,8,1440,33,2.5,62412,private
+Pomona College,Claremont,CA,1700,7,1450,33,2.8,62600,private
+Williams College,Williamstown,MA,2000,9,1440,33,4,64540,private
+Bowdoin College,Brunswick,ME,1800,9,1430,33,2.7,64910,private
+Middlebury College,Middlebury,VT,2500,13,1400,32,1.5,64800,private
+Wellesley College,Wellesley,MA,2400,13,1410,32,3.5,64920,private
+Claremont McKenna College,Claremont,CA,1400,11,1430,33,1.3,64150,private
+Harvey Mudd College,Claremont,CA,900,10,1490,34,0.5,64427,private
+Haverford College,Haverford,PA,1300,14,1420,32,0.6,65030,private
+Vassar College,Poughkeepsie,NY,2500,19,1400,32,1.3,67805,private
+Colgate University,Hamilton,NY,3200,12,1410,32,1.2,67870,private
+Davidson College,Davidson,NC,1900,17,1390,32,1.1,62250,private
+Grinnell College,Grinnell,IA,1700,19,1400,32,2,64996,private
+Hamilton College,Clinton,NY,2100,14,1410,32,1.4,65090,private
+Bates College,Lewiston,ME,1800,13,1390,32,0.5,64800,private
+Reed College,Portland,OR,1400,12,1380,31,0.6,64450,private
+University of Richmond,Richmond,VA,3200,29,1350,31,3.3,65450,private
+University of Rochester,Rochester,NY,6200,35,1370,31,3.1,63150,private
+Case Western Reserve University,Cleveland,OH,5500,30,1390,32,2,65000,private
+Wake Forest University,Winston-Salem,NC,5400,25,1340,30,1.6,64758,private
+Boston College,Chestnut Hill,MA,9400,17,1410,32,3.8,67680,private
+Boston University,Boston,MA,18000,14,1400,31,3.4,65168,private
+Northeastern University,Boston,MA,20000,18,1430,33,1.3,63141,private
+University of Miami,Coral Gables,FL,11000,19,1350,31,1.4,59056,private
+Southern Methodist University,Dallas,TX,6700,47,1320,30,2,63450,private
+Tulane University,New Orleans,LA,8800,13,1400,31,1.8,66664,private
+American University,Washington,DC,8200,39,1300,29,0.8,55508,private
+George Washington University,Washington,DC,11000,38,1340,30,2.4,62110,private
+University of Denver,Denver,CO,5900,64,1290,28,0.9,59092,private
+University of San Diego,San Diego,CA,5700,48,1280,28,0.6,55532,private
+Santa Clara University,Santa Clara,CA,5700,47,1300,29,1,58618,private
+Loyola Marymount University,Los Angeles,CA,6300,44,1270,28,0.5,55441,private
+Fordham University,Bronx,NY,9400,45,1290,29,0.9,58082,private
+University of Portland,Portland,OR,3200,81,1250,27,0.3,53910,private
+Pepperdine University,Malibu,CA,3600,52,1300,29,1,65990,private
+University of Vermont,Burlington,VT,10000,60,1280,28,0.8,43890,public
+University of Connecticut,Storrs,CT,18000,55,1270,28,0.6,45256,public
+University of Delaware,Newark,DE,18000,66,1250,27,1,38920,public
+University of Georgia,Athens,GA,30000,40,1290,29,1.5,31120,public
+University of Florida,Gainesville,FL,34000,23,1350,30,2.3,28658,public
+University of Texas at Austin,Austin,TX,40000,29,1340,30,4.3,41070,public
+University of Wisconsin–Madison,Madison,WI,31000,49,1320,29,3.8,41570,public
+University of Illinois Urbana-Champaign,Urbana-Champaign,IL,34000,45,1310,28,3.7,35110,public
+University of Washington,Seattle,WA,32000,48,1300,28,4,42204,public
+University of Minnesota–Twin Cities,Minneapolis,MN,30000,73,1280,27,4,36840,public
+Pennsylvania State University,University Park,PA,40000,55,1250,27,4.6,38652,public
+Rutgers University–New Brunswick,New Brunswick,NJ,36000,66,1240,27,1.6,33963,public
+Indiana University Bloomington,Bloomington,IN,33000,80,1230,26,3,40347,public
+Michigan State University,East Lansing,MI,39000,83,1220,26,4,42360,public
+University of Iowa,Iowa City,IA,22000,86,1210,25,2,32316,public
+University of Missouri,Columbia,MO,22000,77,1200,25,1,31604,public
+University of Kansas,Lawrence,KS,19000,88,1190,24,2,29428,public
+University of Nebraska–Lincoln,Lincoln,NE,20000,79,1180,24,1.8,27000,public
+University of Arizona,Tucson,AZ,29000,87,1190,24,1.2,38273,public
+University of Oregon,Eugene,OR,19000,84,1200,25,1,39612,public
+University of Colorado Boulder,Boulder,CO,30000,79,1220,26,2,40356,public
+University of Tennessee,Knoxville,TN,24000,75,1230,26,1.3,33198,public
+University of Oklahoma,Norman,OK,21000,80,1210,25,2,32420,public
+University of Alabama,Tuscaloosa,AL,32000,80,1200,25,1,32000,public
+University of Mississippi,Oxford,MS,17000,88,1180,24,0.8,27912,public
