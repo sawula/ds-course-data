@@ -30,12 +30,12 @@ df = pd.read_csv("URL_OR_PATH/college_dataset.csv")
 | `yield` | `enrolled / admitted` (0-1): the share of admitted students who enroll |
 | `open_admissions_policy` | IPEDS open-admissions flag (integer code; see codebook) |
 | `sat_percent_submitting`, `act_percent_submitting` | Percent of enrolled students whose SAT / ACT scores were used in admissions. Low values signal test-optional policies |
-| `sat_ebrw_25/50/75`, `sat_math_25/50/75` | 25th, 50th (median) and 75th percentile SAT section scores of enrolled first-year students (IPEDS publishes percentiles, **not** averages) |
-| `sat_total_25/50/75` | Sum of the EBRW and math percentiles. An approximation, since percentiles don't strictly add |
-| `act_composite_25/50/75` | 25th, 50th and 75th percentile ACT composite |
+| `sat_ebrw_25/75`, `sat_math_25/75` | 25th and 75th percentile SAT section scores of enrolled first-year students (IPEDS publishes percentiles, **not** averages). The `_50` (median) versions of these columns exist but are **empty in the 2021 data** |
+| `sat_total_25/75` | Sum of the EBRW and math percentiles. An approximation, since percentiles don't strictly add. `sat_total_50` is empty in the 2021 data |
+| `act_composite_25/75` | 25th and 75th percentile ACT composite (`act_composite_50` is empty in the 2021 data) |
 | `net_price_inc1` ... `inc5`, `net_price_inc99` | Average net price (cost after grants) for students in each family-income bracket. Suffix: 1 = $0-30k, 2 = $30-48k, 3 = $48-75k, 4 = $75-110k, 5 = $110k+, 99 = all students (confirm codes in the portal codebook) |
 | `average_grant_inc*`, `total_grant_inc*`, `number_of_students_inc*`, `number_receiving_grants_inc*` | Grant aid and student counts for the same income brackets |
-| `pell_pct`, `pell_students`, `pell_avg_amount` | Percent and number of first-time, full-time students receiving Pell grants, and the average Pell amount: a stand-in for low-income enrollment |
+| `pell_pct`, `pell_students`, `pell_avg_amount` | Share (a fraction from 0 to 1, e.g. 0.19 = 19%) and number of first-time, full-time students receiving Pell grants, and the average Pell amount: a stand-in for low-income enrollment. Note that `sat_percent_submitting` and `act_percent_submitting` are on a 0-100 scale instead |
 | `super_opeid` | Opportunity Insights college ID |
 | `oi_*` | Columns from Opportunity Insights Table 2, e.g. `oi_par_median` (median parent income), `oi_par_top1pc` (share of students from the top 1%), `oi_par_q1` (share from the bottom quintile), `oi_k_median` (students' own median income in their mid-30s), `oi_mr_kq5_pq1` (mobility rate: bottom quintile to top quintile). See their codebook for the full list and dollar year |
 
@@ -43,6 +43,7 @@ df = pd.read_csv("URL_OR_PATH/college_dataset.csv")
 
 - **Missing data.** The Urban API codes missing values as negative numbers (-1, -2, -3); the notebook converts them to `NaN`. Many columns have a lot of `NaN`.
 - **Test-optional schools.** Many schools stopped requiring SAT/ACT around 2020, so test-score columns are missing or unrepresentative for them. Check `sat_percent_submitting` before comparing scores.
+- **Coverage.** 5,346 colleges in all; about 1,850 have admit rates, about 960-970 have SAT/ACT percentiles, about 4,600 have Pell data, and 2,007 have Chetty data. 1,152 have both admit rates and Chetty data (776 with SAT/ACT percentiles too).
 - **Not every college has Chetty data.** The match is on 6-digit OPEID, and Chetty groups multi-campus systems under one ID. Where several campuses share an ID, the notebook keeps the one with the most applicants. Check `df["super_opeid"].notna().sum()` to see how many matched.
 - **Admit rate of 0.** A few tiny schools report 1-2 applicants and none admitted, so `admit_rate` is 0. Consider filtering on `applicants`.
 - **Related file:** `top_colleges.csv` is a small hand-assembled table of famous schools (acceptance rate, average SAT/ACT, endowment, tuition). Useful for comparison, but its numbers come from a different source and year.
